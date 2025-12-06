@@ -14,6 +14,11 @@ XArrPay 非官方收集的插件仓库
 或使用源地址为
 `https://ghp.ci/https://raw.githubusercontent.com/touchear/xarr-pay-plugins/refs/heads/main/package.json`
 
+#仓库插件：
+
+支付宝商家账单，支付宝app监控，微信，usdt epusdt插件。许多比较旧的插件，有时间会根据需求更新部分插件。
+
+目前两个usdt支付插件可以正常拉起。回调因为手续费比较贵没测试。
 
 
 # 使用声明
@@ -29,6 +34,5 @@ XArrPay 非官方收集的插件仓库
 
 如发现本仓库中存在任何违法或侵权内容，请及时联系我进行处理。您可以通过以下方式联系我：
 
-- 邮箱: [gerui434@gmail.com](mailto:gerui434@gmail.com)
-
+- 邮箱:  18wljishu@gmail.com
 谢谢你的理解与配合。
